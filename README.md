@@ -23,4 +23,4 @@ Emojify -i <PATH_TO_CODE> -o <OUTPUT_PATH>
 ![Demo](./image.png)
 
 ### Demo
-[![Tutorial Video](https://img.youtube.com/vi/8TEwLnuewqU/0.jpg)](https://youtu.be/8TEwLnuewqU)
+[![Tutorial Video](https://img.youtube.com/vi/CFRY_UeLego/0.jpg)](https://youtu.be/CFRY_UeLego)
