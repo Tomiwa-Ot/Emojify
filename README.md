@@ -23,4 +23,4 @@ Emojify -i <PATH_TO_CODE> -o <OUTPUT_PATH>
 ![Demo](./image.png)
 
 ### Demo
-[![Tutorial Video](https://img.youtube.com/vi/CFRY_UeLego/0.jpg)](https://youtu.be/CFRY_UeLego)
+[![Tutorial Video](https://thumbnails.odycdn.com/optimize/s:390:220/quality:85/plain/https://thumbs.odycdn.com/30f76838956a35c585f3bdc890710af2.webp)](https://odysee.com/@tomiwa:4/Emojify-_-C--Obfuscator:6)
